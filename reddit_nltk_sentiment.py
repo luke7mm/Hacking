@@ -1,3 +1,7 @@
+# Python and api hacking practice. Code copied from:
+# https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/
+
+
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 import praw
