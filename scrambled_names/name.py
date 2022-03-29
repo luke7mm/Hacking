@@ -1,6 +1,5 @@
 # Scrambled names
 # Simple program to scramble up your name
-#
 
 import random
 from random import shuffle
