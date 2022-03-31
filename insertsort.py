@@ -1,4 +1,5 @@
 # Insert sort with names in Python
+# Playing with algo from https://www.geeksforgeeks.org/python-program-for-insertion-sort/
 
 def insertSort(arr):
 
