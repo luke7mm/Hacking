@@ -6,9 +6,7 @@ print("Enter a second number:")
 
 number2 = int(input())
 
-operator = input("Enter a number to 1)Multiply 2)Divide 3)Add 4)Subtract :   ")
-
-operator = int(operator)
+operator = int(input("Enter a number to 1)Multiply 2)Divide 3)Add 4)Subtract :   "))
 
 if operator == 1:
   result = number1 * number2
